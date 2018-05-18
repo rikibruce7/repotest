@@ -1,2 +1,3 @@
 Apellido y nombre
 HOLAAA SOY EL PROFESOR RAUL. Y AGREGO ESTA LINEA DE "CODIGO" NO BORRARLA. ESCRIBIR DEBAJO.
+Conflicto resuelto por Ricardo Ivan Artencio 
